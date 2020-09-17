@@ -10,7 +10,7 @@ We managed to pull information about fires from 2013, 2015 and 2018 to compare d
 
 Here we had to do some data clearning, a fairly large amount of the entries for the fires were incomplete, and locational data was simply not available. Additionally, many did not have an accurate end-date, listed simply as the end of the year the fire was recorded. To solve this, we shifted our scope to focus on the day the fire started.
 
-![fire_data](Images\FireData.png)
+![fire_data](https://github.com/BenFarniok/Wildfire-vs-Weather-Project/raw/master/Images/FireData.png)
 
 Calfire served as the source for our fires, while the daily weather data was pulled from a service called OpenWeatherMap.
 
@@ -21,7 +21,7 @@ To start with, the data from the California fires was not available via an API, 
 
 We set about making our comparisons, graphing fire information such as total area burned, date and location against weather information like wind speed, temperature and humidity.
 
-![fire_data](Images\LocationGraph.png)
+![fire_data](https://github.com/BenFarniok/Wildfire-vs-Weather-Project/raw/master/Images/LocationGraph.png)
 
 Altogether, we were somewhat surprised to find that windspeed seemed to be inversely proportional to likelihood of a fire breaking out, but it was difficult to find a real link to humidity and that same likelihood.
 
